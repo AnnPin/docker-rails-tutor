@@ -2,7 +2,7 @@ Docker Image for Rails Tutorial
 ===============================
 
 ### これは何？
-*  Railsチュートリアルを読み進めていく時にサンプルを動かすために使えるDockerイメージ
+*  Railsチュートリアル (<http://railstutorial.jp/>) を読み進めていく時にサンプルを動かすために使えるDockerイメージ
 *  RVM、Ruby、Ruby Gems、Rails、git、Heroku Toolbeltインストール済み
 *  コンテナ起動後、`/www/rails_projects`ディレクトリ下ですぐにRailsプロジェクト開発が始められると思います
 
